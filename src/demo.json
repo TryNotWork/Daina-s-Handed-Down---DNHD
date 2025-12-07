@@ -1,0 +1,53 @@
+{
+    "browser": {
+        "name": "Unknown",
+        "version": "Unknown"
+    },
+    "kernel": "WebKit",
+    "os": "Unknown",
+    "device": {
+        "type": "Mobile",
+        "isTouchSupported": true,
+        "screen": {
+            "width": 428,
+            "height": 926,
+            "availWidth": 428,
+            "availHeight": 926,
+            "pixelRatio": 3,
+            "colorDepth": 24
+        },
+        "viewport": {
+            "width": 428,
+            "height": 835
+        }
+    },
+    "network": {
+        "isOnline": true,
+        "type": "Unknown",
+        "effectiveType": "Unknown",
+        "downlink": "Unknown",
+        "rtt": "Unknown"
+    },
+    "storage": {
+        "cookieEnabled": true,
+        "localStorageSupported": true,
+        "sessionStorageSupported": true,
+        "estimateLocalStorageSize": "4 MB (估算)"
+    },
+    "locale": {
+        "language": "zh-CN",
+        "languages": [
+            "zh-CN"
+        ],
+        "timeZone": "Asia/Shanghai"
+    },
+    "others": {
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 MicroMessenger/8.0.63(0x18003f2f) NetType/4G Language/zh_CN",
+        "vendor": "Apple Computer, Inc.",
+        "appVersion": "5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 MicroMessenger/8.0.63(0x18003f2f) NetType/4G Language/zh_CN",
+        "platform": "iPhone",
+        "webkitVersion": "605.1.15",
+        "supportsWebGL": true,
+        "thirdPartyCookieBlocked": false
+    }
+}
